@@ -1,0 +1,100 @@
+.header{
+    width: 1060px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.inner{
+    width: 1060px;
+    margin: 0 auto;
+    position: relative;
+}
+.h1{
+    position: relative;
+}
+.logo{
+    position: absolute;
+    margin-top: 10px;
+}
+
+.gnb{
+    float: right;
+}
+
+
+.menu{
+    width: 100%;
+    margin-top: 50px;
+    display: block;
+    clear: both;
+}
+
+.gnb-depth1{
+    float: left;
+    margin-left: 100px;
+    margin-top: -15px;
+}
+
+.text{
+    text-indent: -99999em;
+}
+.menu1{
+    background: url("../images/mobis/menu1.png");
+    margin-top: -5px;
+}
+
+.background {
+    background: url("../images/mobis/visual0.jpg") no-repeat 0 -110px;
+    background-size: 1060px 706px;
+    width: 1060px;
+    height: 400px;
+}
+
+.safemove{
+    position: absolute;
+    margin-left: 25%;
+    margin-top: 10%;
+}
+
+.safemove1{
+    display: block;
+    width: 439px;
+    height: 35px;
+    background: url("../images/mobis/v0_txt2.png") no-repeat;
+    text-indent: -99999em;
+}
+
+.nav-inner{
+    float: left;
+    display: block;
+
+}
+.h2{
+    background: url("../images/mobis/mBlock0_tit1.gif") no-repeat;
+    display: block;
+    width: 200px;
+    height: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.clearfix:after{
+    content:"";
+    display:block;
+    clear:both;
+}
+
+
+
+
+
